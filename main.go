@@ -1,0 +1,5 @@
+package goroutin
+
+func main() {
+
+}
